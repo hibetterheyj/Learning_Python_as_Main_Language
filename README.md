@@ -13,4 +13,6 @@
 
 - Mooc: [Python网络爬虫与信息提取（in chinese）](http://www.icourse163.org/learn/BIT-1001870001)
  
+笔记见**Reptile**文件夹，水平较低，还望指正！
+ 
 ### to be continued!
